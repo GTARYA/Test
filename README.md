@@ -1,26 +1,31 @@
-🌐 Project Monetization with PunteroRed
-Register your project as an NLC - Non-Limited Company on the blockchain
+## 🌐 Project Monetization with PunteroRed
+
+### **Register your project as an NLC - Non-Limited Company on the blockchain**
+
 Sustainably monetize your open-source contributions and introduce decentralized governance to your project using PunteroRed.
 
-Why PunteroRed?
-PunteroRed offers a fresh take on project monetization without sidelining the open-source ethos. Bringing in governance tokens guarantees fair compensation and influence for all key participants.
+### **Why PunteroRed?**
+PunteroRed offers a fresh take on project monetization without sidelining the open-source ethos. By bringing in governance tokens, it guarantees fair compensation and influence for all key participants.
 
-How It Works?
-Integrate Governance Tokens: Implement project-specific governance tokens. These tokens aren't just symbols; they represent a stake and voice in the project's trajectory.
-Distribute Tokens with PunteroRed: Share these tokens among contributors, maintainers, and other key figures based on their input and significance.
-Monetize With Clarity: Stakeholders can derive value from their tokens by actively participating in project governance or leveraging other token utilities PunteroRed enables.
-Sample Project Registration:
-Smart Contract Address: 0x1234abcd5678efgh9012ijklmnop3456
-Contributor	Role	Token Shares
-Alice	Lead Developer	500
-Bob	Designer	300
-Charlie	Documentation	150
-Dave	Tester	50
-Get Started
+### **How It Works?**
+1. **Integrate Governance Tokens**: Implement project-specific governance tokens. These tokens aren't just symbols; they represent a stake and voice in the project's trajectory.
+2. **Distribute Tokens with PunteroRed**: Share these tokens among contributors, maintainers, and other key figures based on their input and significance.
+3. **Monetize With Clarity**: Stakeholders can derive value from their tokens by actively taking part in project governance or leveraging other token utilities PunteroRed enables.
+
+### **Sample Project Registration:**
+- **Smart Contract Address**: `0x1234abcd5678efgh9012ijklmnop3456`
+  
+| Contributor | Role           | Token Shares |
+|-------------|----------------|--------------|
+| Alice       | Lead Developer | 500          |
+| Bob         | Designer       | 300          |
+| Charlie     | Documentation  | 150          |
+| Dave        | Tester         | 50           |
+
+### **Get Started**
 Begin your association with PunteroRed and discover more about its perks:
-
-Explore PunteroRed's Documentation
-Join our community chat for questions or collaboration opportunities.
+- Explore [PunteroRed's Documentation](https://punterored.gitbook.io/)
+- Join our [community chat](https://punterored.community/link) for questions or collaboration opportunities.
 
 # Percival
 
